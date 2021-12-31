@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I'm Tom, I'm French and I work at Datadog and I need to update this README!
+I'm Tom, I'm French and I work at Datadog.
 
 
 <!--
