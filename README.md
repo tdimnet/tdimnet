@@ -14,25 +14,25 @@ Thank you for visiting!
 
 I love learning, writing, and teaching. Below is a list of the mediums on which I publish things on:
 
-- [https://tdimnet.medium.com](My Medium account): all my articles are free to access.
+- [My Medium account](https://tdimnet.medium.com): all my articles are free to access.
 - Twitch: coming soon (once I find my new apartment ^^)
 - Youtube chanel: coming soon (same as above)
 
 
 ### Courses I wrote in English
 
-- [https://openclassrooms.com/en/courses/6663451-make-your-web-content-accessible](Make Your Web Content Accessible)
-- [https://openclassrooms.com/en/courses/6663461-code-an-accessible-website-in-html-css](Code an Accessible Webiste in HTML and CSS)
+- [Make Your Web Content Accessible](https://openclassrooms.com/en/courses/6663451-make-your-web-content-accessible)
+- [Code an Accessible Webiste in HTML and CSS](https://openclassrooms.com/en/courses/6663461-code-an-accessible-website-in-html-css)
 
 
 ### Courses I wrote in French
 
-- [https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur](Preparez-vous aux tests techniques pour devenir developpeur)
-- [https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible](Concevez un contenu web accessible)
-- [https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css](Codez un site web accessible avec HTML et CSS)
-- [https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet](Deboguez l'interface de votre site internet)
-- [https://openclassrooms.com/fr/courses/7159306-testez-vos-applications-front-end-avec-javascript](Testez vos applications Front End avec JavaScript)
-- [https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript](Utilisez des design patterns en JavaScript)
+- [Preparez-vous aux tests techniques pour devenir developpeur](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur)
+- [Concevez un contenu web accessible](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible)
+- [Codez un site web accessible avec HTML et CSS](https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css)
+- [Deboguez l'interface de votre site internet](https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet)
+- [Testez vos applications Front End avec JavaScript](https://openclassrooms.com/fr/courses/7159306-testez-vos-applications-front-end-avec-javascript)
+- [Utilisez des design patterns en JavaScript](https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript)
 
 
 <!--
