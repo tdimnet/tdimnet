@@ -37,7 +37,7 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 
 ### Certifications
 
-<a href="https://www.credly.com/badges/5bd94ffc-6759-46f1-ade1-18a7e166101c/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="100"/></a><a href="https://www.credly.com/badges/f367977e-ec0a-402c-91d8-4fb38956f32a"><img src="https://images.credly.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" alt="AWS Certified Developer – Associate" width="100"/></a>
+<a target="_blank" href="https://www.credly.com/badges/5bd94ffc-6759-46f1-ade1-18a7e166101c/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="100"/></a><a target="_blank" href="https://www.credly.com/badges/f367977e-ec0a-402c-91d8-4fb38956f32a"><img src="https://images.credly.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" alt="AWS Certified Developer – Associate" width="100"/></a>
 
 <!--
 ![AWS Certified Cloud Practitioner](https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png): [See certification](https://www.credly.com/badges/5bd94ffc-6759-46f1-ade1-18a7e166101c/linked_in_profile)
