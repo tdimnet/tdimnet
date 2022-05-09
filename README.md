@@ -15,8 +15,6 @@ Thank you for visiting!
 I love learning, writing, and teaching. Below is a list of the mediums on which I publish things on:
 
 - [My Medium account](https://tdimnet.medium.com): all my articles are free to access.
-- Twitch: coming soon (once I find my new apartment ^^)
-- Youtube chanel: coming soon (same as above)
 
 
 ### Courses I wrote in English
