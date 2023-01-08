@@ -5,18 +5,16 @@ Thank you for visiting!
 ## About Me
 
 - My name is Tom, I'm French and I live in Paris.
-- I work at Datadog as a softwear engineer / developer advocate.
+- I work at Matters as a Engineering Manager.
 - My main programming languages are JavaScript/TypeScript and Python.
-- I own AWS certifications (and I like to train to get them).
 - I use and love Vim.
+- I coach people on my spare time.
 
 ## Writing
 
 I love learning, writing, and teaching. Below is a list of the mediums on which I publish things on:
 
 - [My Medium account](https://tdimnet.medium.com): all my articles are free to access.
-- [My Twitch account](https://www.twitch.tv/t_dimnet): Relaxing games without speaking
-  and French code streams.
 
 ### Courses I wrote in English
 
