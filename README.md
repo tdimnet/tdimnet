@@ -5,7 +5,7 @@ Thank you for visiting!
 ## About Me
 
 - My name is Tom, I'm French and I live in Paris.
-- I work at Matters as a Engineering Manager.
+- I work as an Engineering Manager.
 - My main programming languages are JavaScript/TypeScript and Python.
 - I use and love Vim.
 - I coach people on my spare time.
@@ -32,16 +32,18 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 - [Utilisez des design patterns en JavaScript](https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript)
 
 
-## Certifications
-
-<a href="https://www.credly.com/badges/5bd94ffc-6759-46f1-ade1-18a7e166101c/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="100"/></a><a href="https://www.credly.com/badges/f367977e-ec0a-402c-91d8-4fb38956f32a"><img src="https://images.credly.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" alt="AWS Certified Developer – Associate" width="100"/></a>
-
 ## Little Genius 🧞 - (WIP) 
 
 - [On Medium](https://medium.com/little-genius)
 - [On GitHub](https://github.com/little-genius-tuts)
 - [On Youtube](https://www.youtube.com/channel/UCBCRQQtea2mpisqrb-yLcoQ)
 - On something else? 👀
+
+
+## Certifications
+
+<a href="https://www.credly.com/badges/5bd94ffc-6759-46f1-ade1-18a7e166101c/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100"/></a><a href="https://www.credly.com/badges/f367977e-ec0a-402c-91d8-4fb38956f32a"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="100"/></a>
+
 
 
 <!--
