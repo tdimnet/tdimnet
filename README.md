@@ -47,7 +47,7 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 
 ## More personal stuff
 - [Twitch](https://www.twitch.tv/tdimnet): I sometimes stream relaxing games, and sometimes guitar, on Twich. I don't speak and don't use a webcam. Only chill and relax.
-- [A guitarist's best friend](https://github.com/tdimnet/a-guitarists-best-friend): I am developping an open source and tuner, check that out!
+- [A guitarist's best friend](https://github.com/tdimnet/a-guitarists-best-friend): I am developping an open source metronome and tuner, check that out!
 
 <!--
 ![AWS Certified Cloud Practitioner](https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png): [See certification](https://www.credly.com/badges/5bd94ffc-6759-46f1-ade1-18a7e166101c/linked_in_profile)
