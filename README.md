@@ -5,7 +5,7 @@ Thank you for visiting!
 ## About Me
 
 - My name is Tom, I'm French and I live in Paris.
-- I work as an Engineering Manager.
+- I work as a Software Engineer.
 - My main programming languages are JavaScript/TypeScript and Python.
 - I use and love Vim.
 - I coach people on my spare time.
@@ -30,14 +30,6 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 - [Deboguez l'interface de votre site internet](https://openclassrooms.com/fr/courses/7159296-deboguez-l-interface-de-votre-site-internet)
 - [Testez vos applications Front End avec JavaScript](https://openclassrooms.com/fr/courses/7159306-testez-vos-applications-front-end-avec-javascript)
 - [Utilisez des design patterns en JavaScript](https://openclassrooms.com/fr/courses/7133336-utilisez-des-design-patterns-en-javascript)
-
-
-## Little Genius 🧞 - (WIP) 
-
-- [On Medium](https://medium.com/little-genius)
-- [On GitHub](https://github.com/little-genius-tuts)
-- [On Youtube](https://www.youtube.com/channel/UCBCRQQtea2mpisqrb-yLcoQ)
-- On something else? 👀
 
 
 ## Certifications
