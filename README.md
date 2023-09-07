@@ -4,8 +4,10 @@ Thank you for visiting!
 
 ## About Me
 
+**For French People only** : Si vous avez aimé mes cours sur OpenClassrooms, vous adorez [NX Academy](https://beta.nx.academy).
+
 - My name is Tom, I'm French and I live in Paris.
-- I work as a Software Engineer.
+- I work as a Software Engineer and an Engineering Teacher.
 - My main programming languages are JavaScript/TypeScript and Python.
 - I use and love Vim.
 - I coach people on my spare time.
@@ -38,7 +40,6 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 
 
 ## More personal stuff
-- [Twitch](https://www.twitch.tv/tdimnet): I sometimes stream relaxing games, and sometimes guitar, on Twich. I don't speak and don't use a webcam. Only chill and relax.
 - [A guitarist's best friend](https://github.com/tdimnet/a-guitarists-best-friend): I am developping an open source metronome and tuner, check that out!
 
 <!--
