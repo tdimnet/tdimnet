@@ -4,8 +4,6 @@ Thank you for visiting!
 
 ## About Me
 
-**For French People only** : Si vous avez aimé mes cours sur OpenClassrooms, vous adorez [NX Academy](https://beta.nx.academy).
-
 - My name is Tom, I'm French and I live in Paris.
 - I work as a Software Engineer and an Engineering Teacher.
 - My main programming languages are JavaScript/TypeScript and Python.
