@@ -4,17 +4,18 @@ Thank you for visiting!
 
 ## About Me
 
-- My name is Tom, I'm French and I live in Paris.
-- I work as a Software Engineer and an Engineering Teacher.
-- My main programming languages are JavaScript/TypeScript and Python.
+- My name is Tom, I'm French, and I live in Paris.
+- I work as a Software Engineer and an Computer Science Teacher.
+- My main programming languages are JavaScript/TypeScript, Python, Rust, And Python
 - I use and love Vim.
-- I coach people on my spare time.
+
 
 ## Writing
 
 I love learning, writing, and teaching. Below is a list of the mediums on which I publish things on:
 
 - [My Medium account](https://tdimnet.medium.com): all my articles are free to access.
+- [NX Academy](https://nx.academy): it's free and open source. **All the content is written in French**.
 
 ### Courses I wrote in English
 
@@ -38,25 +39,5 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 
 
 ## More personal stuff
-- [A guitarist's best friend](https://github.com/tdimnet/a-guitarists-best-friend): I am developping an open source metronome and tuner, check that out!
-
-<!--
-![AWS Certified Cloud Practitioner](https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png): [See certification](https://www.credly.com/badges/5bd94ffc-6759-46f1-ade1-18a7e166101c/linked_in_profile)
-
-![AWS Certified Developer – Associate](https://images.credly.com/size/680x680/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png): [See certification](https://www.credly.com/badges/f367977e-ec0a-402c-91d8-4fb38956f32a)
--->
-
-<!--
-**tdimnet/tdimnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [NX Academy](https://github.com/nx-academy): I am working on an online learning platform with some friends. It's free, open-source, and **it's in French**.
+- [Pygames](https://github.com/tdimnet/pygames): I recently bought a Rasberry Pi. I am now working my coding skills to build some nice games in Python.
