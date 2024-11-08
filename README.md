@@ -6,7 +6,7 @@ Thank you for visiting!
 
 - My name is Tom, I'm French, and I live in Paris.
 - I work as a Software Engineer and an Computer Science Teacher.
-- My main programming languages are JavaScript/TypeScript, Python, Rust, And Python
+- My main programming languages are JavaScript/TypeScript, Python, Rust, And Php.
 - I use and love Vim.
 
 
