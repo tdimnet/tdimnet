@@ -40,4 +40,4 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 
 ## More personal stuff
 - [NX Academy](https://github.com/nx-academy): I am working on an online learning platform with some friends. It's free, open-source, and **it's in French**.
-- [Pygames](https://github.com/tdimnet/pygames): I recently started to learn how to build games with Python. It's something completly new for me and I like it! Feel free to check them and try to run them on your own computer 🙂.
+
