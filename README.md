@@ -39,5 +39,5 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 
 
 ## More personal stuff
-- [Slice Pizzeria]([https://github.com/nx-academy](https://github.com/tdimnet/slice-pizzeria)): A REST API built with NestJS that lets you order pizzas (well… not really — it’s all fake!). This project was inspired by [Slice Life Pizzeria from rscheffers82](https://github.com/rscheffers82/slice-life-pizzeria/tree/master) - huge shoutout to him for the idea!
+- [Slice Pizzeria](https://github.com/tdimnet/slice-pizzeria): A REST API built with NestJS that lets you order pizzas (well… not really — it’s all fake!). This project was inspired by [Slice Life Pizzeria from rscheffers82](https://github.com/rscheffers82/slice-life-pizzeria/tree/master) - huge shoutout to him for the idea!
 
