@@ -4,8 +4,8 @@ Thank you for visiting!
 
 ## About Me
 
-- My name is Tom, I'm French, and I live in Paris.
-- I work as a Software Engineer and an Computer Science Teacher.
+- My name is Thomas (call me Tom), I'm French, and I live in Paris.
+- I work as a Software Engineer and a Computer Science Teacher.
 - My main programming languages are JavaScript/TypeScript, Python, And Php.
 - I use and love Vim.
 
@@ -14,7 +14,7 @@ Thank you for visiting!
 
 I love learning, writing, and teaching. Below is a list of the mediums on which I publish things on:
 
-- [My Medium account](https://tdimnet.medium.com): all my articles are free to access.
+- [My Medium account](https://tdimnet.medium.com): most of my articles are free to access.
 - [NX Academy](https://nx.academy): it's free and open source. **All the content is written in French**.
 
 ### Courses I wrote in English
@@ -25,6 +25,7 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 
 ### Courses I wrote in French
 
+- [**NOUVEAU** : Conteneurisez vos applications avec Docker](https://nx.academy/cours/docker-et-docker-compose/)
 - [Preparez-vous aux tests techniques pour devenir developpeur](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur)
 - [Concevez un contenu web accessible](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible)
 - [Codez un site web accessible avec HTML et CSS](https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css)
