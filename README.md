@@ -36,11 +36,7 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 
 ## Certifications - New Certifications coming soon
 
-<!--
-<a href="https://www.credly.com/badges/5bd94ffc-6759-46f1-ade1-18a7e166101c/linked_in_profile"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100"/></a><a href="https://www.credly.com/badges/f367977e-ec0a-402c-91d8-4fb38956f32a"><img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="100"/></a>
--->
 
-
-## More personal stuff
+## More personal stuff 
 - [Slice Pizzeria](https://github.com/tdimnet/slice-pizzeria): A REST API built with NestJS that lets you order pizzas (well… not really — it’s all fake!). This project was inspired by [Slice Life Pizzeria from rscheffers82](https://github.com/rscheffers82/slice-life-pizzeria/tree/master) - huge shoutout to him for the idea!
 
