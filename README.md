@@ -5,8 +5,9 @@ Thank you for visiting!
 ## About Me
 
 - My name is Thomas (call me Tom), I'm French, and I live in Paris.
-- I work as a Software Engineer and a Computer Science Teacher.
-- My main programming languages are JavaScript/TypeScript, Python, And Php.
+- I work as a Cloud Engineer (I've been Software Engineer and Computer Science Teacher in the past few years).
+- I love teaching and building things with code and cloud: these are truly my passions in life.
+- My main programming languages are JavaScript/TypeScript, Python, Php, and C#.
 - I use and love Vim.
 
 
@@ -25,7 +26,11 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 
 ### Courses I wrote in French
 
+#### On NX:
+- [**NOUVEAU** : Maîtrisez les pipelines CI/CD avec les GitHub Actions](https://nx.academy/cours/ci-cd-github-actions/)
 - [**NOUVEAU** : Conteneurisez vos applications avec Docker](https://nx.academy/cours/docker-et-docker-compose/)
+
+#### On OpenClassrooms:
 - [Preparez-vous aux tests techniques pour devenir developpeur](https://openclassrooms.com/fr/courses/6045521-preparez-vous-aux-tests-techniques-pour-devenir-developpeur)
 - [Concevez un contenu web accessible](https://openclassrooms.com/fr/courses/6691346-concevez-un-contenu-web-accessible)
 - [Codez un site web accessible avec HTML et CSS](https://openclassrooms.com/fr/courses/6691451-codez-un-site-web-accessible-avec-html-css)
@@ -38,5 +43,5 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 
 
 ## More personal stuff 
-- [Slice Pizzeria](https://github.com/tdimnet/slice-pizzeria): A REST API built with NestJS that lets you order pizzas (well… not really — it’s all fake!). This project was inspired by [Slice Life Pizzeria from rscheffers82](https://github.com/rscheffers82/slice-life-pizzeria/tree/master) - huge shoutout to him for the idea!
 
+I started making video games with Pygame and Monogame. I'll talk about that very soon.
