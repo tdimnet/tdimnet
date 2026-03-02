@@ -44,4 +44,5 @@ I love learning, writing, and teaching. Below is a list of the mediums on which 
 
 ## More personal stuff 
 
-- [Buildings](https://github.com/tdimnet/buildings) - A basic city builder built with Pygame
+
+- [Learn Pygame by Doing](https://github.com/tdimnet/learn-pygame-by-doing) - A step by step guide to build a city builder with Python and Pygame.
